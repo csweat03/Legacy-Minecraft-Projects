@@ -1,4 +1,4 @@
-# Old-Minecraft-Projects
+# Legacy-Minecraft-Projects
 These projects were all developed for public use. As free/premium software that could give you an advantage in some attribute of Minecraft.
 
 | **Word** | *Definition* |
